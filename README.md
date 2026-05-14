@@ -3,7 +3,7 @@
 ## 👥 Anggota Kelompok
 | Nama | NIM | Peran |
 |---|---|---|
-| Quratta A’yuni | 2309106001 | Ketua |
+| Qurrata A’yuni | 2309106001 | Ketua |
 | Nur Juzieatul Alifah | 2309106040 | Anggota |
 | Tiara Kasma Wati Putri | 2309106080 | Anggota |
 
@@ -31,7 +31,7 @@ Projek ini bertujuan membantu pengguna dalam memonitor penggunaan air secara leb
 
 ## 👨‍💻 Pembagian Tugas per Individu
 
-### Quratta A’yuni
+### Qurrata A’yuni
 - Merangkai alat dan komponen IoT
 - Membuat program utama sistem
 - Melakukan troubleshooting coding dan integrasi sistem
