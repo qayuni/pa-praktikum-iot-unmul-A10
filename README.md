@@ -68,7 +68,6 @@ Board schematic dirancang menggunakan:
 - Fritzing
 <img width="2795" height="2023" alt="iot" src="https://github.com/user-attachments/assets/0bbea81a-75c3-44df-a2dd-10dd117a3ee8" />
 
-> Tambahkan gambar schematic hasil rancangan kalian pada bagian ini.
 
 ## 🔌 Board Schematic
 
