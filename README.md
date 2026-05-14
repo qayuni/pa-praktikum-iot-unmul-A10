@@ -38,7 +38,7 @@ Projek ini bertujuan membantu pengguna dalam memonitor penggunaan air secara leb
 
 ### Nur Juzieatul Alifah
 - Merangkai alat
-- Membuat hampir seluruh tampilan aplikasi Kodular
+- Membuat seluruh tampilan aplikasi Kodular
 - Membuat logika block Kodular
 - Melakukan troubleshooting block Kodular
 
